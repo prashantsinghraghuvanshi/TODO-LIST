@@ -3,13 +3,18 @@
 
 This is a simple and interactive Todo List web application built with HTML, CSS, and JavaScript. The app allows users to create, manage, and organize their daily tasks effectively. With an intuitive user interface.
 
+## Live Website
+
+[Todo List](https://todolist-prashant.netlify.app/)
+
+## Tools Used
+
 
 ![Logo](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg)
 
 ![Logo](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg)
 
 ![Logo](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg)
-
 
 ## Author
 
