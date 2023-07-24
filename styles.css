@@ -1,3 +1,7 @@
+:root{
+    --yellow: #fca311;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -5,7 +9,7 @@
 }
 
 body{
-    background-color:coral;
+    background-color: #14213d;
     color: white;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
@@ -34,7 +38,7 @@ form button{
 }
 
 form button{
-    color: yellow;
+    color: var(--yellow);
     background: white;
     cursor: pointer;
     transition: all 0.5 ease;
@@ -43,7 +47,7 @@ form button{
 
 form button:hover{
     color: white;
-    background: yellow;
+    background: var(--yellow);
 }
 
 .fa-plus-circle{
@@ -89,7 +93,7 @@ form button:hover{
 }
 
 .complete-btn{
-    background: yellow;
+    background: var(--yellow);
 }
 
 .trash-btn{
@@ -133,7 +137,7 @@ select{
 }
 
 select{
-    color:yellow;
+    color:var(--yellow);
     width: 10rem;
     height: 3.2rem;
     cursor: pointer;
@@ -143,7 +147,7 @@ select{
 .select::after{
     content: "\25BC";
     position: absolute;
-    background: yellow;
+    background: var(--yellow);
     top: 0;
     right: 0;
     padding: 1rem;
@@ -153,5 +157,5 @@ select{
 
 .select::hover::after{
     background: white;
-    color: yellow;
+    color: var(--yellow);
 }
